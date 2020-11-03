@@ -1,5 +1,3 @@
-package edu.xjtlu.cse313.wordcount;
-
 import java.io.IOException;
 import java.util.Arrays;
 import org.apache.hadoop.conf.Configuration;
